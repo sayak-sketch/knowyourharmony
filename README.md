@@ -7,9 +7,10 @@
 
 **KnowYourHarmony** is an AI-powered music intelligence web application that extracts the "sonic DNA" of any song. By combining the Apple iTunes database with Google's Gemini AI, it generates a highly stylized, editorial-grade analysis of a track's genre, mood, lyrical essence, and deeper musical themes.
 
-> **[View Live Demo]** *(Add your Vercel link here once deployed)*
+> **[View Live Demo]** *https://knowyourharmony.vercel.app/*
 
-*(📸 Add a screenshot of your stunning dark-mode UI here)*
+*<img width="1891" height="881" alt="image" src="https://github.com/user-attachments/assets/c5a8ac3a-c5d3-45cc-907d-159d7b60c291" />
+*
 
 ## ✨ Key Features
 
@@ -35,7 +36,7 @@ To run this project on your local machine:
 
 **1. Clone the repository**
 \`\`\`bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/knowyourharmony.git
+git clone  https://github.com/sayak-sketch/knowyourharmony.git
 cd knowyourharmony
 \`\`\`
 
